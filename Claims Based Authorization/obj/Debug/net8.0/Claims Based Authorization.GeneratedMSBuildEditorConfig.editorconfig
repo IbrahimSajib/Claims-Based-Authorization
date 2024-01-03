@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Claims_Based_Authorization
+build_property.RootNamespace = Claims_Based_Authorization
+build_property.ProjectDir = D:\Practice For Github\Claims Based Authorization\Claims Based Authorization\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Practice For Github\Claims Based Authorization\Claims Based Authorization
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Admin_Only.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbl9Pbmx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Asian.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBc2lhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Australia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdXN0cmFsaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Bangladesh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYW5nbGFkZXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Canada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYW5hZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Female.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGZW1hbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Japan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKYXBhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Male.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Private.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Home/Public.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQdWJsaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/UserManagement/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/UserManagement/ManageUserClaims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcTWFuYWdlVXNlckNsYWltcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/UserManagement/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Practice For Github/Claims Based Authorization/Claims Based Authorization/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iba4n646to
